@@ -86,18 +86,6 @@ $i++;
 // $singelArray = explode("\t", $arrayRow[1]);
 // var_dump ($singelArray);
 
-// preg_match('/([a-zA-Z][a-zA-Z][0-9]{1,})\.(.+)/', $singelArray[0], $dbAddressArray);
-// switch ($singelArray[2]) {
-// 	case "Int" or "int":
-// 		$dbAddressArray[2] = preg_replace("[^0{1,3}]", "DBW", $dbAddressArray[2]);
-// 		break;
-	
-// 	default:
-// 		$dbAddressArray[2] = preg_replace("[^0{1,3}]", "DBD", $dbAddressArray[2]);
-// 		break;
-// }
-
-// echo "L ".$dbAddressArray[1].".".$dbAddressArray[2];
 
 
 // $str = "DB361.0002 DB361.0101 Int" ;
