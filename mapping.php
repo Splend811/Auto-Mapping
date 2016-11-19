@@ -7,7 +7,6 @@
 <div id = "frm">
 <?php
 // define variables
-//$addresses = "";
 if(empty($_POST['addresses'])){
 	$addresses = "";
 }
